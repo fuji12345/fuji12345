@@ -1,5 +1,4 @@
 ## I'm Ryota Fujimura, welcome to my GitHub profile
-- 🔭 I am a senior at Meiji University.
 - 🌱 I’m learning Machine Learning and Deep Learning at the moment.
 - 👯 I am learning CS on Recursion. [My profile page](https://recursionist.io/users/ajishio).
 <!--- 📫 How to reach me: ...-->
