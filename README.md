@@ -13,7 +13,7 @@
 
 ## Career
 
-- ギリア株式会社(GHELIA INC.), Tokyo, Japan (2023.10 - present)
+- GHELIA INC.(ギリア株式会社), Tokyo, Japan (2023.10 - present)
   - Internship
   - AI Development Engineer
 
