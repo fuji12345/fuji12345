@@ -5,8 +5,8 @@
 
 ## Education
 
-- 2020.4 - 2024.3 : Meiji University, School of Science and Technology, Department of Computer Science
-- 2024.4 - 2026.3 (expected) : Meiji University Graduate School, Graduate School of Science and Technology, Major in Computer Science 
+- 2020.4 - 2024.3 : Meiji University, Department of Computer Science
+- 2024.4 - 2026.3 (expected) : Meiji University Graduate School, Major in Computer Science 
 
 
 ## Career
