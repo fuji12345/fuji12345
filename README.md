@@ -1,5 +1,5 @@
 # Ryota Fujimura (藤村亮太) @Kanagawa, Japan
-- 🌱 I'm currently learning machine learning and deep learning.
+- 🌱 I'm currently studying machine learning and deep learning.
 
 ---
 
